@@ -31,6 +31,4 @@ int main()
   }
 
   return 0;
-
-  // DEPOIS TESTAR COM FUNÇÃO
 }
